@@ -23,6 +23,7 @@ source .venv/bin/activate
 
 # Install the package and all development dependencies
 uv pip install -e ".[dev]"
+uv pip install cirq-core
 
 # Install pre-commit hooks
 pre-commit install
