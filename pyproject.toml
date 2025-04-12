@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "bloqade-analog>=0.16.3",
-    "bloqade-pyqrack>=0.5.0",
+    "bloqade-pyqrack[pyqrack]>=0.5.0",
     "bloqade[qasm2,qbraid]>=0.22.5",
     "kirin-toolchain>=0.14.3",
     "numpy>=2.2.3",
