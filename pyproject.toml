@@ -13,7 +13,12 @@ dependencies = [
     "tomli>=2.2.1",
     "tqdm>=4.67.1",
 ]
-authors = [{ name = "Anton Morgunov", email = "anton@ischemist.com" }]
+authors = [{ name = "Yu Shee", email = "yu.shee@yale.edu" },
+           { name = "Anthony Smaldone", email = "anthony.smaldone@yale.edu"},
+           { name = "Simon Deconihout", email = "simon.deconihout@epfl.ch"},
+           { name = "Andriy Ivaneyko", email = "andriyivaneyko@gmail.com"},
+           { name = "Bradley McGhee", email = "bjmcghee@gatech.edu"}
+]
 license = { text = "MIT" }
 
 [project.urls]
