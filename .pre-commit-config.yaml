@@ -15,10 +15,3 @@ repos:
         entry: ruff format
         language: python
         types: [python]
-
-      # - id: mypy
-      #   name: mypy
-      #   entry: mypy
-      #   language: system
-      #   types: [python]
-      #   args: [--strict, --ignore-missing-imports, --exclude=tests]
