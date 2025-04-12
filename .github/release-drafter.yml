@@ -15,12 +15,6 @@ categories:
       - "enhancement"
       - "refactor"
       - "performance"
-  - title: "🧰 Maintenance"
-    labels:
-      - "tests"
-      - "maintenance"
-      - "ci"
-      - "update-known-checksums"
   - title: "📚 Documentation"
     labels:
       - "documentation"
